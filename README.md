@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! My name is Mariana Barnola and I'm an Old School Art Director, becoming a coder.
+My name is Mariana Barnola and I'm an Old School Art Director, becoming a coder.
 
 Let me tell you a bit about me:
 

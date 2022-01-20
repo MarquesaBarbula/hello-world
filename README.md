@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **Maaz-9/maaz-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mariana Barnola and I'm an Old School Art Director.
+My name is Mariana Barnola and I'm an Old School Art director.
 
 Let me tell you a bit about me:
 
@@ -33,6 +33,6 @@ Given my passion for crafts and the impossibility of "sitting and doing nothing 
 And to say goodbye, I must confess that I don't think I'd be happy in a world without dogs, music or cheese.
 When I have free time I like to play the ukulele, read, preserve fruits from the garden, take care of my plants or play with my dogs.
 
-Thank you for visiting me.
+Thank you for visiting.
 
-Maaz-9
+m

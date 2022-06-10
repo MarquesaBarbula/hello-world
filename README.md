@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mariana Barnola and I'm an Old School Art director.
+My name is Mariana Barnola and I'm an Old School Art director that knows how to code.
 
 Let me tell you a bit about me:
 
@@ -26,7 +26,7 @@ I have drawn, cut, glued, painted and sewn since I was a child, hobbies that led
 I've worked as a freelance graphic designer and art director in advertising agencies since my graduation in 1994 trying to play a wide range of "suits" within the world of design and graphic arts to train as a complete professional and without fear of taking on new challenges in any medium, technology or technique necessary to obtain the desired result, even if I don't know it. Take a look at my portfolio! https://marianabarnola.com/
 
 
-I'm restless, methodical and very organized; Self-taught in many things and therefore a faithful believer in continuous learning, I'm always learning something: currently studying Front-End engineer at CodeCademy, so soon I'll be sharing some of my code here!!
+I'm restless, methodical and very organized; Self-taught in many things and therefore a faithful believer in continuous learning, I'm always learning something: recently finished Front-End Engineer at CodeCademy.
 
 Given my passion for crafts and the impossibility of "sitting and doing nothing at all", I've also created a line of jewelery in natural stones, original and very elegant (in my opinion) called Rocks from Mars. Visit it, https://rocksfrommars.net/ you may like it! ;-) 
 
